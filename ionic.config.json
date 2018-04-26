@@ -1,0 +1,8 @@
+{
+  "name": "yuxi-navigation",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
